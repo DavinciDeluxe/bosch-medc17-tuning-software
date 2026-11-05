@@ -2,8 +2,16 @@
   "family": "Bosch MEDC17",
   "slug": "bosch-medc17",
   "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
-  "official_url": "https://www.davincideluxe.fr/bosch-medc17-tuning-software",
-  "file_checker_url": "https://www.davincideluxe.fr/#check-file",
+  "official_urls": [
+    "https://www.davincideluxe.fr/bosch-medc17-tuning-software",
+    "https://www.davincideluxe.org/bosch-medc17-tuning-software",
+    "https://www.davincideluxe.app/bosch-medc17-tuning-software",
+    "https://www.davincideluxe.software/bosch-medc17-tuning-software",
+    "https://www.davincideluxe.es/bosch-medc17-tuning-software",
+    "https://www.davincideluxe.de/bosch-medc17-tuning-software",
+    "https://www.davincideluxe.it/bosch-medc17-tuning-software",
+    "https://www.aesoftech.eu/bosch-medc17-tuning-software"
+  ],
   "matched_variants_count": 1134,
   "brands": {
     "BMW": [
@@ -1296,6 +1304,9 @@
       "EDC17CV41",
       "EDC17CV54"
     ],
+    "MACK": [
+      "EDC17CV41"
+    ],
     "KRAMER": [
       "EDC17CV52"
     ],
@@ -1352,9 +1363,6 @@
     "CHALLENGER": [
       "EDC17CV41",
       "EDC17CV44"
-    ],
-    "MACK": [
-      "EDC17CV41"
     ],
     "FREIGHTLINER": [
       "EDC17CV41"
