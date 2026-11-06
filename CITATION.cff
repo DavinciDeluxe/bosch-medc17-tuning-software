@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Bosch MEDC17 ECU Calibration Software — Unified MEDC17 Jaguar Land Rover, Ford, Volvo & Mercedes platform (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/bosch-medc17-tuning-software"
+repository-code: "https://github.com/DavinciDeluxe/bosch-medc17-tuning-software"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
