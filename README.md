@@ -1,10 +1,10 @@
-# Bosch MEDC17 ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.44)
+# Bosch MEDC17 ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.45)
 
 [![Live ECU Page](https://img.shields.io/badge/Bosch%20MEDC17-davincideluxe.fr-14ea63?style=for-the-badge)](https://www.davincideluxe.fr/bosch-medc17-tuning-software)
 [![Portal .org](https://img.shields.io/badge/.ORG-davincideluxe.org-00c8ff?style=for-the-badge)](https://www.davincideluxe.org/bosch-medc17-tuning-software)
 [![Portal .app](https://img.shields.io/badge/.APP-davincideluxe.app-ff007f?style=for-the-badge)](https://www.davincideluxe.app/bosch-medc17-tuning-software)
 
-**Bosch MEDC17** is unified Jaguar/Land Rover, Mercedes & Ford Tricore petrol/diesel management family. **DaVinci Deluxe Cloud Edition (v1.0.44)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Bosch MEDC17 readouts**.
+**Bosch MEDC17** is unified Jaguar/Land Rover, Mercedes & Ford Tricore petrol/diesel management family. **DaVinci Deluxe Cloud Edition (v1.0.45)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Bosch MEDC17 readouts**.
 
 ## 📊 Live Bosch MEDC17 Variants Covered Across Brands
 
@@ -21,8 +21,8 @@
 | **MERCEDES-BENZ** | 28 | `EDC17C01`, `EDC17C42`, `EDC17C43-CP46`, `EDC17C57`, `EDC17C64`, `EDC17C66`, `EDC17C84`, `EDC17CP01` … |
 | **SMART** | 28 | `EDC17C01`, `EDC17C42`, `EDC17C43-CP46`, `EDC17C57`, `EDC17C64`, `EDC17C66`, `EDC17C84`, `EDC17CP01` … |
 | **MAYBACH** | 28 | `EDC17C01`, `EDC17C42`, `EDC17C43-CP46`, `EDC17C57`, `EDC17C64`, `EDC17C66`, `EDC17C84`, `EDC17CP01` … |
+| **BMW** | 18 | `EDC17C02`, `EDC17C41`, `EDC17C42`, `EDC17C50`, `EDC17C56`, `EDC17C76`, `EDC17CP01`, `EDC17CP02-C06` … |
 | **FIAT** | 18 | `EDC17C09`, `EDC17C10`, `EDC17C24`, `EDC17C49`, `EDC17C69`, `EDC17C70`, `EDC17C79`, `EDC17C84` … |
-| **BMW** | 17 | `EDC17C02`, `EDC17C41`, `EDC17C42`, `EDC17C50`, `EDC17C56`, `EDC17C76`, `EDC17CP01`, `EDC17CP02-C06` … |
 | **MINI** | 17 | `EDC17C06`, `EDC17C41`, `EDC17C42`, `EDC17C50`, `EDC17C56`, `EDC17C76`, `EDC17CP02`, `EDC17CP09` … |
 | **ALFA ROMEO** | 17 | `EDC17C09`, `EDC17C10`, `EDC17C49`, `EDC17C69`, `EDC17C79`, `EDC17C84`, `EDC17CP04`, `EDC17CP14` … |
 | **LANCIA** | 17 | `EDC17C09`, `EDC17C10`, `EDC17C49`, `EDC17C69`, `EDC17C79`, `EDC17C84`, `EDC17CP04`, `EDC17CP14` … |
