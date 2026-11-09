@@ -1305,9 +1305,6 @@
       "EDC17CV41",
       "EDC17CV54"
     ],
-    "MACK": [
-      "EDC17CV41"
-    ],
     "KRAMER": [
       "EDC17CV52"
     ],
@@ -1364,6 +1361,9 @@
     "CHALLENGER": [
       "EDC17CV41",
       "EDC17CV44"
+    ],
+    "MACK": [
+      "EDC17CV41"
     ],
     "FREIGHTLINER": [
       "EDC17CV41"
