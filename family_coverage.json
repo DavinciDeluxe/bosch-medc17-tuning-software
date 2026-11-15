@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-medc17-tuning-software",
     "https://www.aesoftech.eu/bosch-medc17-tuning-software"
   ],
-  "matched_variants_count": 1145,
+  "matched_variants_count": 1146,
   "brands": {
     "BMW": [
       "EDC17C02",
@@ -1315,6 +1315,9 @@
       "EDC17CV41",
       "EDC17CV54"
     ],
+    "MACK": [
+      "EDC17CV41"
+    ],
     "KRAMER": [
       "EDC17CV52"
     ],
@@ -1372,9 +1375,6 @@
       "EDC17CV41",
       "EDC17CV44"
     ],
-    "MACK": [
-      "EDC17CV41"
-    ],
     "FREIGHTLINER": [
       "EDC17CV41"
     ],
@@ -1389,6 +1389,7 @@
       "EDC17CV52"
     ],
     "VOLKSWAGEN TRUCKS": [
+      "EDC17C46",
       "EDC17CV41"
     ],
     "OTOCAR BUS": [
