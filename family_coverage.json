@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-medc17-tuning-software",
     "https://www.aesoftech.eu/bosch-medc17-tuning-software"
   ],
-  "matched_variants_count": 1146,
+  "matched_variants_count": 1127,
   "brands": {
     "BMW": [
       "EDC17C02",
@@ -1180,78 +1180,51 @@
     "DODGE": [
       "EDC17C79"
     ],
-    "MAN TRUCKS": [
-      "EDC17C32",
-      "EDC17C49",
-      "EDC17C7",
-      "EDC17CV41",
-      "EDC17CV42"
-    ],
-    "FENDT": [
-      "EDC17CV01",
-      "EDC17CV41",
-      "EDC17CV44",
-      "EDC17CV52",
-      "EDC17CV56"
-    ],
-    "SCANIA": [
-      "EDC17CV41"
-    ],
-    "CLAAS": [
-      "EDC17C53",
-      "EDC17CV41",
-      "EDC17CV42",
-      "EDC17CV52"
-    ],
     "CASE IH": [
-      "EDC17C32",
       "EDC17C49",
       "EDC17CP52",
       "EDC17CV41",
       "EDC17CV54",
       "EDC17UC31"
     ],
-    "INTERNATIONAL": [
-      "EDC17CV42"
+    "MTZ": [
+      "EDC17CV54"
     ],
     "YANMAR": [
       "EDC17CV54"
+    ],
+    "VOLVO TRUCKS": [
+      "EDC17CV41"
+    ],
+    "MERCEDES-BENZ TRUCKS": [
+      "EDC17CV41"
     ],
     "DAF": [
       "EDC17C1",
       "EDC17CV01"
     ],
-    "DONGFENG": [
-      "EDC17C81"
-    ],
-    "KOBELCO": [
-      "EDC17CV54"
-    ],
-    "MTZ": [
-      "EDC17CV54"
-    ],
-    "DEUTZ": [
-      "EDC17C53",
-      "EDC17CV52",
-      "EDC17CV56"
-    ],
-    "JCB": [
-      "EDC17C01",
-      "EDC17CV41",
-      "EDC17CV44"
-    ],
     "QMATEC": [
       "EDC17CV52"
     ],
-    "LANNEN": [
-      "EDC17CV41"
+    "MITSUBISHI FUSO": [
+      "EDC17C49",
+      "EDC17CP15",
+      "EDC17CP52",
+      "EDC17CV54",
+      "EDC17CV55"
     ],
-    "AGCO": [
-      "EDC17CV44"
-    ],
-    "MERCEDES-BENZ TRUCKS": [
-      "EDC17CV41",
+    "MERLO": [
       "EDC17CV52"
+    ],
+    "SAME": [
+      "EDC17C53"
+    ],
+    "IVECO": [
+      "EDC17C49",
+      "EDC17CP52",
+      "EDC17CV41",
+      "EDC17CV54",
+      "EDC17UC31"
     ],
     "NEW HOLLAND": [
       "EDC17C49",
@@ -1274,126 +1247,114 @@
       "EDC17CV54",
       "EDC17UC31"
     ],
-    "MAROT": [
-      "EDC17CV52"
-    ],
-    "MULLINS": [
-      "EDC17CV41"
-    ],
-    "MAXXFORCE": [
-      "EDC17CV41"
-    ],
-    "ATLAS": [
-      "EDC17CV52"
-    ],
-    "AEBI SCHMIDT": [
-      "EDC17C49"
-    ],
-    "MANITOU": [
-      "EDC17CV52"
-    ],
-    "ZETOR": [
-      "EDC17CV52"
-    ],
     "TAKEUCHI": [
       "EDC17CV52"
     ],
-    "KOMATSU": [
-      "EDC17CV54"
+    "MAN TRUCKS": [
+      "EDC17C32",
+      "EDC17CV41",
+      "EDC17CV42"
     ],
-    "SAME": [
-      "EDC17C53"
+    "MASSEY FERGUSON": [
+      "EDC17CV41",
+      "EDC17CV44"
     ],
-    "PERKINS": [
-      "EDC17C49"
-    ],
-    "YTO MOTOR": [
-      "EDC17CV43"
+    "DEUTZ": [
+      "EDC17C53",
+      "EDC17CV52",
+      "EDC17CV56"
     ],
     "DOOSAN": [
       "EDC17C04",
       "EDC17CV41",
       "EDC17CV54"
     ],
-    "MACK": [
+    "SCANIA": [
       "EDC17CV41"
     ],
-    "KRAMER": [
-      "EDC17CV52"
-    ],
-    "HITACHI": [
-      "EDC17CV52"
-    ],
-    "HURLIMANN": [
-      "EDC17C53"
-    ],
-    "IVECO": [
-      "EDC17C49",
-      "EDC17CP52",
+    "CLAAS": [
+      "EDC17C53",
       "EDC17CV41",
-      "EDC17CV54",
-      "EDC17UC31"
-    ],
-    "DEUTZ-FAHR": [
+      "EDC17CV42",
       "EDC17CV52"
-    ],
-    "VOLVO TRUCKS": [
-      "EDC17CV41"
-    ],
-    "MITSUBISHI FUSO": [
-      "EDC17C49",
-      "EDC17CP15",
-      "EDC17CP52",
-      "EDC17CV54",
-      "EDC17CV55"
-    ],
-    "MASSEY FERGUSON": [
-      "EDC17CV41",
-      "EDC17CV44"
     ],
     "RENAULT TRUCKS": [
       "EDC17CV41"
     ],
-    "FORD TRUCKS": [
+    "MACK": [
       "EDC17CV41"
     ],
-    "VALTRA": [
+    "FENDT": [
       "EDC17CV41",
-      "EDC17CV44",
-      "EDC17CV54"
+      "EDC17CV52",
+      "EDC17CV56"
     ],
-    "CATERPILLAR": [
-      "EDC17CV42"
+    "VOLKSWAGEN TRUCKS": [
+      "EDC17CV41"
     ],
     "KIOTI": [
       "EDC17C01"
     ],
-    "KENWORTH": [
+    "VALTRA": [
+      "EDC17CV41",
+      "EDC17CV44"
+    ],
+    "MULLINS": [
       "EDC17CV41"
+    ],
+    "KOMATSU": [
+      "EDC17CV54"
+    ],
+    "ATLAS": [
+      "EDC17CV52"
+    ],
+    "MAROT": [
+      "EDC17CV52"
+    ],
+    "KOBELCO": [
+      "EDC17CV54"
+    ],
+    "DONGFENG": [
+      "EDC17C81"
+    ],
+    "JCB": [
+      "EDC17C01",
+      "EDC17CV41",
+      "EDC17CV44"
+    ],
+    "AEBI SCHMIDT": [
+      "EDC17C49"
     ],
     "CHALLENGER": [
       "EDC17CV41",
       "EDC17CV44"
     ],
-    "FREIGHTLINER": [
+    "FORD TRUCKS": [
       "EDC17CV41"
     ],
-    "LAMBORGHINI TRATTORI": [
-      "EDC17C53",
+    "INTERNATIONAL": [
+      "EDC17CV42"
+    ],
+    "DEUTZ-FAHR": [
       "EDC17CV52"
     ],
-    "FUCHS": [
-      "EDC17CV52"
-    ],
-    "MERLO": [
-      "EDC17CV52"
-    ],
-    "VOLKSWAGEN TRUCKS": [
-      "EDC17C46",
+    "KENWORTH": [
       "EDC17CV41"
     ],
-    "OTOCAR BUS": [
+    "CATERPILLAR": [
+      "EDC17CV42"
+    ],
+    "KRAMER": [
+      "EDC17CV52"
+    ],
+    "LANNEN": [
       "EDC17CV41"
+    ],
+    "ZETOR": [
+      "EDC17CV52"
+    ],
+    "HITACHI": [
+      "EDC17CV52"
     ]
   }
 }
