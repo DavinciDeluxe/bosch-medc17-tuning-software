@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-medc17-tuning-software",
     "https://www.aesoftech.eu/bosch-medc17-tuning-software"
   ],
-  "matched_variants_count": 1127,
+  "matched_variants_count": 1111,
   "brands": {
     "BMW": [
       "EDC17C02",
@@ -149,24 +149,6 @@
       "MED17.6.9"
     ],
     "CHRYSLER": [
-      "EDC17C09",
-      "EDC17C10",
-      "EDC17C49",
-      "EDC17C69",
-      "EDC17C79",
-      "EDC17C84",
-      "EDC17CP04",
-      "EDC17CP14",
-      "EDC17CP27",
-      "EDC17CP52",
-      "MED17.3",
-      "MED17.3.0",
-      "MED17.3.1",
-      "MED17.3.30",
-      "MED17.3.5",
-      "MED17.6.9"
-    ],
-    "RAM": [
       "EDC17C09",
       "EDC17C10",
       "EDC17C49",
@@ -1264,11 +1246,6 @@
       "EDC17CV52",
       "EDC17CV56"
     ],
-    "DOOSAN": [
-      "EDC17C04",
-      "EDC17CV41",
-      "EDC17CV54"
-    ],
     "SCANIA": [
       "EDC17CV41"
     ],
@@ -1355,6 +1332,11 @@
     ],
     "HITACHI": [
       "EDC17CV52"
+    ],
+    "DOOSAN": [
+      "EDC17C04",
+      "EDC17CV41",
+      "EDC17CV54"
     ]
   }
 }
