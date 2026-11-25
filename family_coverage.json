@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-medc17-tuning-software",
     "https://www.aesoftech.eu/bosch-medc17-tuning-software"
   ],
-  "matched_variants_count": 1112,
+  "matched_variants_count": 1126,
   "brands": {
     "BMW": [
       "EDC17C02",
@@ -215,6 +215,7 @@
     ],
     "ISUZU": [
       "EDC17C09",
+      "EDC17C49",
       "EDC17C81",
       "EDC17C83",
       "EDC17CP45-CP49",
@@ -1175,6 +1176,9 @@
     "MTZ": [
       "EDC17CV54"
     ],
+    "MANITOU": [
+      "EDC17CV52"
+    ],
     "YANMAR": [
       "EDC17CV54"
     ],
@@ -1182,7 +1186,8 @@
       "EDC17CV41"
     ],
     "MERCEDES-BENZ TRUCKS": [
-      "EDC17CV41"
+      "EDC17CV41",
+      "EDC17CV52"
     ],
     "DAF": [
       "EDC17C1",
@@ -1266,6 +1271,7 @@
     ],
     "FENDT": [
       "EDC17CV41",
+      "EDC17CV44",
       "EDC17CV52",
       "EDC17CV56"
     ],
@@ -1340,6 +1346,36 @@
       "EDC17C04",
       "EDC17CV41",
       "EDC17CV54"
+    ],
+    "FENDT 930": [
+      "EDC17CV52"
+    ],
+    "CHALLENGER MT700": [
+      "EDC17CV44"
+    ],
+    "VALTRA T194": [
+      "EDC17CV41"
+    ],
+    "VALTRA N123": [
+      "EDC17CV44"
+    ],
+    "VALTRA A93": [
+      "EDC17CV44"
+    ],
+    "VALTRA T213": [
+      "EDC17CV44"
+    ],
+    "AGCO": [
+      "EDC17CV44"
+    ],
+    "PERKINS": [
+      "EDC17C49"
+    ],
+    "YTO MOTOR": [
+      "EDC17CV43"
+    ],
+    "HURLIMANN": [
+      "EDC17C53"
     ]
   }
 }
